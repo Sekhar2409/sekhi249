@@ -40,3 +40,27 @@ nav a:hover {
 .navImgLogo{
     width: 1000px;
 }
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.footer-links li {
+    margin: 0 15px;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
